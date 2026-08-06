@@ -7,10 +7,13 @@ class Solution:
             if nums[i]==1:
                 count+=1
             else:
-                maximum=max(maximum,count)
+                if count>maximum:
+                    maximum=count
                 count=0
             
-        return max(maximum,count)
+        if maximum<count:
+            maximum=count
+        return maximum
                 
 
         
