@@ -14,6 +14,7 @@ A repository that consists all the leetcode questions that i solved!
 | [0001-two-sum](https://github.com/ChholeBhathure/LeetCode-PR/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/ChholeBhathure/LeetCode-PR/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/ChholeBhathure/LeetCode-PR/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/ChholeBhathure/LeetCode-PR/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ChholeBhathure/LeetCode-PR/tree/master/0485-max-consecutive-ones) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ChholeBhathure/LeetCode-PR/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -41,6 +42,7 @@ A repository that consists all the leetcode questions that i solved!
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/ChholeBhathure/LeetCode-PR/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ChholeBhathure/LeetCode-PR/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
