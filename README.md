@@ -48,4 +48,12 @@ A repository that consists all the leetcode questions that i solved!
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ChholeBhathure/LeetCode-PR/tree/master/2149-rearrange-array-elements-by-sign) |
+## String
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/ChholeBhathure/LeetCode-PR/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/ChholeBhathure/LeetCode-PR/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
