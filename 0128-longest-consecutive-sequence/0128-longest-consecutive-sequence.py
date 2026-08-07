@@ -1,9 +1,7 @@
 class Solution:
     def longestConsecutive(self, nums: List[int]) -> int:
-        result=set()
+        result=set(nums)
         n=len(nums)
-        for i in range(0,n):
-            result.add(nums[i])
         longest=0
         for num in result:
             if num-1 not in result:
